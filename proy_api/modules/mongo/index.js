@@ -35,7 +35,7 @@ const collection = name => {
     return dbConnector(connectionString).then(db => db.collection(name));
 };
 
-/*const fetch = filename => {
+const fetch = filename => {
     return new Promise((resolve, reject) =>
         readJSON(filename, (error, elements) => {
             if (error) {
@@ -68,7 +68,7 @@ const init = (type, file) => {
 
 const initCelulares = () => init("celulares", celularesFile);
 
-const initMarcas = () => init("marcas", marcasFile);*/
+const initMarcas = () => init("marcas", marcasFile);
 
 exports.dbConnector = dbConnector;
 
