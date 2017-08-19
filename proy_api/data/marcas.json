@@ -1,0 +1,46 @@
+[{
+        "id": "1",
+        "nombre": "Samsung",
+        "imagen_logo": "http://cdn1.smart-gsm.com/picture/logos/lg_samsu.gif"
+	},
+	{
+        "id": "2",
+        "nombre": "Motorola",
+        "imagen_logo": "http://cdn1.smart-gsm.com/picture/logos/lg_motor.gif"
+	},
+	{
+        "id": "3",
+        "nombre": "Apple",
+        "imagen_logo": "http://cdn1.smart-gsm.com/picture/logos/lg_apple.gif"
+	},
+	{
+        "id": "4",
+        "nombre": "Nokia",
+        "imagen_logo":"http://cdn1.smart-gsm.com/picture/logos/lg_nokia.gif"
+	},
+	{
+        "id": "5",
+        "nombre": "LG",
+        "imagen_logo": "http://cdn1.smart-gsm.com/picture/logos/lg_lg.gif"
+	},
+	{
+        "id": "6",
+        "nombre": "Caterpillar",
+        "imagen_logo": "http://cdn1.smart-gsm.com/picture/logos/lg_cat.gif"
+	},
+	{
+        "id": "7",
+        "nombre": "BlackBerry",
+        "imagen_logo": "http://cdn1.smart-gsm.com/picture/logos/lg_bberry.gif"
+	},
+	{
+        "id": "8",
+        "nombre": "Huawei",
+        "imagen_logo": "http://cdn1.smart-gsm.com/picture/logos/lg_huawei.gif"
+	},
+	{
+        "id": "9",
+        "nombre": "HTC",
+        "imagen_logo": "http://cdn1.smart-gsm.com/picture/logos/lg_htc.gif"
+	}
+]

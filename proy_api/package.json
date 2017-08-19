@@ -1,0 +1,23 @@
+{
+  "name": "proy_api",
+  "version": "1.0.0",
+  "description": "Proyecto Fullstack",
+  "main": "index.js",
+  "author": "NOQ",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.7",
+    "graphql": "^0.10.5",
+    "graphql-relay":"^0.5.2",
+    "mongodb": "^2.2.30",
+    "read-json": "^1.0.3",
+    "relay-mongodb-connection": "^2.1.0",
+    "shortid": "^2.2.8"
+  },
+  "scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+  }
+}

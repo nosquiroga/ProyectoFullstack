@@ -1,0 +1,94 @@
+[
+    {
+        "id": "1",
+        "marca": "4",
+        "modelo": "3",
+        "pantalla": "5 pulgadas, 720 x 1280 pixels",
+        "procesador": "MediaTek MT6737 1.3GHz, 2GB RAM",
+        "almacenamiento": "16GB, microSD",
+        "camara": "8 MP",
+        "bateria": "2650 mAh",
+        "so": "Android 7.0",
+        "imagen": "http://cdn1.smart-gsm.com/picture/nokia-3.jpg"
+    },
+    {
+        "id": "2",
+        "marca": "4",
+        "modelo": "6",
+        "pantalla": "5.5 pulgadas, 1080 x 1920 pixels",
+        "procesador": "Snapdragon 430 1.4GHz, 3GB/4GB RAM",
+        "almacenamiento": "32GB/64GB, microSD",
+        "camara": "16 MP",
+        "bateria": "3000 mAh",
+        "so": "Android 7.1.1",
+        "imagen": "http://cdn1.smart-gsm.com/picture/nokia-6.jpg"
+    },
+    {
+        "id": "3",
+        "marca": "4",
+        "modelo": "150",
+        "pantalla": "2.4 pulgadas, 240 x 320 pixels",
+        "almacenamiento": "microSD, hasta 32GB",
+        "camara": "VGA, flash LED",
+        "bateria": "1020 mAh",
+        "imagen": "http://cdn1.smart-gsm.com/picture/nokia-150.jpg"
+    },
+    {
+        "id": "4",
+        "marca": "4",
+        "modelo": "3310",
+        "pantalla": "2.4 pulgadas, 240 x 320 pixels",
+        "almacenamiento": "16GB, microSD",
+        "camara": "2 MP",
+        "bateria": "1200 mAh",
+        "imagen": "http://cdn1.smart-gsm.com/picture/nokia-3310-2017.jpg"
+    },
+    {
+        "id": "5",
+        "marca": "2",
+        "modelo": "Moto G4",
+        "pantalla": "5.5 pulgadas, 1080 x 1920 pixels",
+        "procesador": "Snapdragon 617 1.5GHz, 2GB RAM",
+        "almacenamiento": "16GB, microSD",
+        "camara": "13 MP",
+        "bateria": "3000 mAh",
+        "so": "Android 6.0.1",
+        "imagen": "http://cdn1.smart-gsm.com/picture/motorola-moto-g4.jpg"
+    },
+    {
+        "id": "6",
+        "marca": "2",
+        "modelo": "Moto E4",
+        "pantalla": "5 pulgadas, 720 x 1280 pixels",
+        "procesador": "Snapdragon 425 1.4GHz, 2GB RAM",
+        "almacenamiento": "16GB, microSD",
+        "camara": "8 MP",
+        "bateria": "2800 mAh",
+        "so": "Android 7.1.1",
+        "imagen": "http://cdn1.smart-gsm.com/picture/motorola-moto-e4.jpg"
+    },
+    {
+        "id": "7",
+        "marca": "2",
+        "modelo": "Moto C Plus",
+        "pantalla": "5 pulgadas, 720 x 1280 pixels",
+        "procesador": "MediaTek MT6737 1.3GHz, 1GB/2GB RAM",
+        "almacenamiento": "16GB, microSD",
+        "camara": "8 MP",
+        "bateria": "4000 mAh",
+        "so": "Android 7.0",
+        "imagen": "http://cdn1.smart-gsm.com/picture/motorola-moto-c-plus.jpg"
+    },
+    {
+        "id": "8",
+        "marca": "2",
+        "modelo": "Moto G5",
+        "pantalla": "5 pulgadas, 1080 x 1920 pixels",
+        "procesador": "Snapdragon 430 1.4GHz, 2GB/3GB RAM",
+        "almacenamiento": "16GB/32GB, microSD",
+        "camara": "13 MP",
+        "bateria": "2800 mAh",
+        "so": "Android 7.0",
+        "imagen": "http://cdn1.smart-gsm.com/picture/motorola-moto-g5.jpg"
+    }
+]
